@@ -21,4 +21,4 @@ requires:
   warnings: 0
 resources:
   repository: git://github.com/gypark/App-gitfancy.git
-version: 0.001
+version: 0.002

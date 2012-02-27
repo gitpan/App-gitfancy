@@ -1,6 +1,6 @@
 package App::gitfancy;
 {
-  $App::gitfancy::VERSION = '0.001';
+  $App::gitfancy::VERSION = '0.002';
 }
 use strict;
 use warnings;
@@ -20,7 +20,7 @@ App::gitfancy - shows `git log` with a more readable graph
 
 =head1 VERSION
 
-version 0.001
+version 0.002
 
 =head1 SYNOPSIS
 
